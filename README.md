@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/KevinJDurant/OpenTorrentSite/master/LICENSE)
 [![GitHub version](https://img.shields.io/badge/Support-Discord%20Channel-brightgreen)](https://discord.gg/invite/npxzAhAfJd)
 
-A modern torrent search engine/website template that is easy to setup with an intuitive GUI. Engineered to be one of the easiest to use torrent website out there. This site doesn't scrape torrents from any sources, it's only a template you can use to start hosting your own torrent site.
+Un modèle de moteur de recherche / site Web torrent moderne facile à configurer avec une interface graphique intuitive. Conçu pour être l'un des sites Web torrent les plus faciles à utiliser. Ce site ne récupère les torrents d'aucune source, ce n'est qu'un modèle que vous pouvez utiliser pour commencer à héberger votre propre site torrent. en cours de traduction en Francais 
 
 ## Design
 ![Index](http://i.imgur.com/bP7n07l.png)
